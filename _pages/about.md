@@ -8,4 +8,12 @@ redirect_from:
   - /about.html
 ---
  Hello! Welcome to my webpage. This is still work in-progress!
+ # About Me
+ * I am a PhD Candidate in Physical Oceanography at [Scripps Institution of Oceanography](https://scripps.ucsd.edu/), [University of California San Diego](https://ucsd.edu) advised by [Dr. Sarah. G. Purkey](https://spurkey.scrippsprofiles.ucsd.edu/) 
+ 
+ * My research interests lie in the area of large-scale dynamics of the oceans and its link to the global climate system. I'm also interested in harnessing machine learning and deep learning tools to improve intelligibility of climate related model and observational data. 
+ 
+ * My dissertation revolves around understanding the role of turbulent mixing in the deep ocean and its role in controlling the overturning circulation of the ocean. I direct observations from novel instrumentation to measure oceanic turbulence called  [$\chi$Pod ](http://mixing.coas.oregonstate.edu/research/instrumentation/) for the goal of improving our knowlendge of the global geography of turbulent mixing in the ocean. My research also utilizes satellite observations of changes in the Earth's gravitiational field and consequently Ocean Bottom Pressure from [NASA GRACE](https://www.nasa.gov/mission_pages/Grace/index.html) and GRACE-FO (https://www.nasa.gov/mission_pages/Grace/index.html) missions to understand the inter-annual spatial and temporal variablity in abyssal ocean mass transport. 
+ 
+ 
 

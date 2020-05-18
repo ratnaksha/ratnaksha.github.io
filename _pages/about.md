@@ -17,3 +17,4 @@ redirect_from:
  
  
 
+\\[\chi\\]

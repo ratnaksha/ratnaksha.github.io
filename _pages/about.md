@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
- Hello! Welcome to my webpage. This is still work in-progress!
+ Hello! Welcome to my webpage. This is still work in-progress!   
  # About Me
  * I am a PhD Candidate in Physical Oceanography at [Scripps Institution of Oceanography](https://scripps.ucsd.edu/), [University of California San Diego](https://ucsd.edu) advised by [Dr. Sarah. G. Purkey](https://spurkey.scrippsprofiles.ucsd.edu/) 
  

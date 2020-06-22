@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Ice and ocean velocity in the Arctic marginal ice zone: Ice roughness and momentum transfer"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: ''
+paperurl: 'http://nora.nerc.ac.uk/id/eprint/517949/'
+citation: 'ST Cole, JM Toole, R Lele, ML Timmermans… - Elementa Science of the Anthropocene, 2017'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](http://nora.nerc.ac.uk/id/eprint/517949/1/241-3814-2-PB.pdf)
+

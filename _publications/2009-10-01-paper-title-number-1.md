@@ -3,7 +3,7 @@ title: "Ice and ocean velocity in the Arctic marginal ice zone: Ice roughness an
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
-date: 2009-10-01
+date: 2017-09-21
 venue: ''
 paperurl: 'http://nora.nerc.ac.uk/id/eprint/517949/'
 citation: 'ST Cole, JM Toole, R Lele, ML Timmermans… - Elementa Science of the Anthropocene, 2017'

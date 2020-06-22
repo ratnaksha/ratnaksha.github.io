@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
  Hello! Welcome to my webpage. This is still work in-progress!  <br />   
- # About Me
+ ## About Me
 * I am a PhD Candidate in Physical Oceanography at [Scripps Institution of Oceanography](https://scripps.ucsd.edu/), [University of California San Diego](https://ucsd.edu) advised by [Dr. Sarah. G. Purkey](https://spurkey.scrippsprofiles.ucsd.edu/) 
  
 * My research interests lie in the area of large-scale dynamics of the oceans and its link to the global climate system. I'm also interested in harnessing machine learning and deep learning tools to improve intelligibility of climate related model and observational data. 

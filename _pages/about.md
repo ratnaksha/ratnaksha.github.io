@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <p align="center">
-  <img src="https://ratnaksha.github.io/files/logo_img.png?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://ratnaksha.github.io/files/logo_img.png?raw=true" alt="Photo" style="width: 500px;"/> 
 </p>
 
  Hello! Welcome to my webpage. This is still work in-progress!  <br />   

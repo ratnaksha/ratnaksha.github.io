@@ -6,6 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+
+
 {% include base_path %}
 
 [Click here to view my recent Resume [PDF]](http://ratnaksha.github.io/files/rlele_cv.pdf)

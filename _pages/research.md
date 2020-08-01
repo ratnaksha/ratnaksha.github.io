@@ -4,8 +4,7 @@ permalink: /research/
 #excerpt: "Research"
 author_profile: true
 redirect_from: 
-  - /research/
-  - /research.html
+  - /research
 ---
 
 Research stuff here. This is still work in-progress!  <br />

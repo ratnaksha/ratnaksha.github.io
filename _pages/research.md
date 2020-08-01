@@ -8,4 +8,4 @@ redirect_from:
   - /research.html
 ---
 
-Hello! Welcome to my webpage. This is still work in-progress!  <br />
+Research stuff here. This is still work in-progress!  <br />

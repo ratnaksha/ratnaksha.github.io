@@ -12,9 +12,9 @@ Hello! Welcome to my webpage. This is still work in-progress!  <br />
  
 # About me
  
-* I am a PhD Candidate in Physical Oceanography at [Scripps Institution of Oceanography](https://scripps.ucsd.edu/), [University of California San Diego](https://ucsd.edu) advised by [Dr. Sarah. G. Purkey](https://spurkey.scrippsprofiles.ucsd.edu/) 
+* I am a PhD Candidate in Physical Oceanography at [Scripps Institution of Oceanography](https://scripps.ucsd.edu/), [University of California San Diego](https://ucsd.edu) advised by [Dr. Sarah. G. Purkey](https://spurkey.scrippsprofiles.ucsd.edu/). My research is funded by NASA's Future Investigator in Earth and Space Sciences grant and through the National Science Foundation.
  
-* My research interests lie in the area of large-scale dynamics of the oceans and its link to the global climate system. I'm also interested in harnessing machine learning and deep learning tools to improve intelligibility of climate related model and observational data. 
+* My research interests lie in the area of large-scale dynamics of the oceans and its link to the global climate system. I'm also interested in harnessing machine learning and deep learning tools to improve intelligibility of climate-related model and observational data. 
  
 * My dissertation revolves around understanding two fundamental processes regulating the overturning circulation of the ocean- 
   - the role of turbulent mixing in the abyssal ocean  

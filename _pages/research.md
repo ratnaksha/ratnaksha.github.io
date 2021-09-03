@@ -26,6 +26,6 @@ The deep overturning circulation of the ocean is driven by northward flow of col
 
 <img src="http://ratnaksha.github.io/images/proj1.png" alt="project1" width="900"/>
 **Project Lead:** Ratnaksha Lele<br/>
-#<img src="http://ratnaksha.github.io/images/rlele_pic.jpg" alt="Me" width="100"/><br/>
+<img src="http://ratnaksha.github.io/images/rlele_pic.jpg" alt="Me" width="200"/><br/>
 **Collaborators:** Sarah Purkey, Jennifer MacKinnon, Jonathan Nash<br/>
-
+<a href="https://spurkey.scrippsprofiles.ucsd.edu//"><img src="http://ratnaksha.github.io/images/SGP.jpg" alt="SGP" width="100"/></a>

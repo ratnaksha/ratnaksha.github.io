@@ -18,5 +18,9 @@ redirect_from:
 {% endfor %}
 
  -->
+{% include base_path %}
 
 Research stuff here. This is still work in-progress!  <br />
+
+
+

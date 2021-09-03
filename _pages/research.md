@@ -1,6 +1,7 @@
 ---
+layout: archive
 permalink: /research/
-#title: " Current Research"
+title: " Current Research"
 #excerpt: "Research"
 author_profile: true
 redirect_from: 

@@ -21,6 +21,22 @@ redirect_from:
  -->
 {% include base_path %}
 
+## Deep Learning of NASA GRACE dervied Ocean Bottom Pressure: Implications for Regional Sea Level Budgets <br/>
+Description of Project goes in here.
+
+<img src="http://ratnaksha.github.io/images/grace_project.gif" alt="grace_project" width="1296"/>
+
+**Project Lead:** Ratnaksha Lele<br/>
+<img src="http://ratnaksha.github.io/images/rlele_pic.jpg" alt="Me" width="150"/><br/>
+**Collaborators:** Sarah Purkey, Matthew Mazloff<br/>
+<a href="https://spurkey.scrippsprofiles.ucsd.edu/"><img src="http://ratnaksha.github.io/images/SGP.jpg" alt="SGP" width="100"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://mmazloff.scrippsprofiles.ucsd.edu/"><img src="http://ratnaksha.github.io/images/MM.jpg" alt="MM" width="100"/></a>
+
+*****
+*****
+*****
+
+
+
 ## Reconciling Abyssal Ocean Ciculation and Turbulence from Theory and Observations <br/>
 The deep overturning circulation of the ocean is driven by northward flow of cold waters formed in the Southern Ocean and diffusion-driven upwelling from oceanic turbulence, both of which are difficult to measure and quantify accurately. This study aims to reconcile different methods of measuring the overturning in a large ocean basin by 1) inferring mixing required to sustain the overturning using long term observations of inflow and outflow heat fluxes from a time-dependent heat budget, 2) direct/indirect observations of mixing within the basin. While our results show consistency of the basin-averaged mixing estimates from several different methods, this study also highlights the need to make sustained oceanic observations of mixing and circulation to further reduce uncertainty in the estimates. [link to abstract](https://agu.confex.com/agu/osm20/meetingapp.cgi/Paper/648606)
 

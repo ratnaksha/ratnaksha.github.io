@@ -55,7 +55,7 @@ The deep overturning circulation of the ocean is driven by northward flow of col
 ## Development of Data Processing Pipeline of Novel Oceanic Turbulence Instrumentation 
 Understanding the processes that control the temporal variability and geographic distribution of ocean mixing is an important community goal towards obtaining more accurate global climate predictions.  Until recently direct observation of deep-ocean mixing has required special free-falling profiling instruments, and because of this, mixing observations are sparse.  This paper describes a relatively new technique for obtaining ocean mixing by measuring very small-scale temperature fluctuations during traditional CTD profiling.  We show that the method is not significantly biased, which provides support for making continued observations within the global repeat hydrography programs. 
 
-<img src="http://ratnaksha.github.io/images/x-pod_project.png" alt="x-pod_project" width="1496"/>
+<img src="http://ratnaksha.github.io/images/x-pod_project.png" alt="x-pod_project" width="1024"/>
 
 
 **Project Lead:** Jonathan Nash<br/>

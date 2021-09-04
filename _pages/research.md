@@ -24,7 +24,7 @@ redirect_from:
 ## Deep Learning of NASA GRACE dervied Ocean Bottom Pressure: Implications for Regional Sea Level Budgets <br/>
 Description of Project goes in here.
 
-<img src="http://ratnaksha.github.io/images/grace_project.gif" alt="grace_project" width="1296"/>
+<img src="http://ratnaksha.github.io/images/grace_project.gif" alt="grace_project" width="800"/>
 
 **Project Lead:** Ratnaksha Lele<br/>
 <img src="http://ratnaksha.github.io/images/rlele_pic.jpg" alt="Me" width="150"/><br/>

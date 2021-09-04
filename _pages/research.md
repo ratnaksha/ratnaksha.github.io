@@ -30,3 +30,11 @@ The deep overturning circulation of the ocean is driven by northward flow of col
 <img src="http://ratnaksha.github.io/images/rlele_pic.jpg" alt="Me" width="150"/><br/>
 **Collaborators:** Sarah Purkey, Jennifer MacKinnon, Jonathan Nash<br/>
 <a href="https://spurkey.scrippsprofiles.ucsd.edu/"><img src="http://ratnaksha.github.io/images/SGP.jpg" alt="SGP" width="100"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://jmackinnon.scrippsprofiles.ucsd.edu/"><img src="http://ratnaksha.github.io/images/JAM.jpg" alt="JAM" width="70"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ceoas.oregonstate.edu/people/jonathan-nash/"><img src="http://ratnaksha.github.io/images/JDN.jpg" alt="JDN" width="100"/></a>
+
+
+*****
+*****
+*****
+
+## Development of Data Processing Pipeline of Novel Oceanic Turbulence Instrumentation 
+Understanding the processes that control the temporal variability and geographic distribution of ocean mixing is an important community goal towards obtaining more accurate global climate predictions.  Until recently direct observation of deep-ocean mixing has required special free-falling profiling instruments, and because of this, mixing observations are sparse.  This paper describes a relatively new technique for obtaining ocean mixing by measuring very small-scale temperature fluctuations during traditional CTD profiling.  We show that the method is not significantly biased, which provides support for making continued observations within the global repeat hydrography programs. 

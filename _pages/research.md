@@ -42,4 +42,4 @@ Understanding the processes that control the temporal variability and geographic
 **Project Lead:** Jonathan Nash<br/>
 <a href="https://ceoas.oregonstate.edu/people/jonathan-nash/"><img src="http://ratnaksha.github.io/images/JDN.jpg" alt="JDN" width="100"/></a><br/>
 **Collaborators:** Ratnaksha Lele, Sarah Purkey, Jennifer MacKinnon<br/>
-<img src="http://ratnaksha.github.io/images/rlele_pic.jpg" alt="Me" width="150"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://spurkey.scrippsprofiles.ucsd.edu/"><img src="http://ratnaksha.github.io/images/SGP.jpg" alt="SGP" width="100"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://jmackinnon.scrippsprofiles.ucsd.edu/"><img src="http://ratnaksha.github.io/images/JAM.jpg" alt="JAM" width="70"/></a>
+<img src="http://ratnaksha.github.io/images/rlele_pic.jpg" alt="Me" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://spurkey.scrippsprofiles.ucsd.edu/"><img src="http://ratnaksha.github.io/images/SGP.jpg" alt="SGP" width="100"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://jmackinnon.scrippsprofiles.ucsd.edu/"><img src="http://ratnaksha.github.io/images/JAM.jpg" alt="JAM" width="70"/></a>

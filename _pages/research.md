@@ -21,6 +21,10 @@ redirect_from:
  -->
 {% include base_path %}
 
+
+*****
+*****
+*****
 ## Understanding Spatial Structure of Ocean Turbulent Mixing with Embedded Clustering Methods <br/>
 Turbulent mixing is a fundamental process that drives the large-scale cirulation of the ocean, through destratifying the water and helping upwell it in different regions of the world. A variety of processes are throught to cause turbulent mixing including surface procesess primarily by wind action, diffusion, convective instabilities as well as processes away from boundary regions primarily driven by internal waves. Direct turbulent measurements as well as parameterizations called finescale parameterizations have been developmed to gain a better understanding of turbulent mixing at different spatio-temporal scales. While our understanding of how much energy must be dissipated through turbulent processes is faily robust from examining the Earth's energy budget, the geographical distribution and structure of the plethora of mixing processes remains poorly understood. Here, we use a novel embedded clustering approach to oceanographic data to uncover the spatial distribution of turbulent mixing processes in the ocean.
 
@@ -30,6 +34,9 @@ Turbulent mixing is a fundamental process that drives the large-scale cirulation
 <img src="http://ratnaksha.github.io/images/rlele_pic.jpg" alt="Me" width="150"/><br/>
 
 
+*****
+*****
+*****
 
 
 

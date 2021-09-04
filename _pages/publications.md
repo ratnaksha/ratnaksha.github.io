@@ -7,12 +7,12 @@ Feel free to email me if you would like a pdf of any of these papers.
 
 <br>
 J D Nash, **R Lele**, J A MacKinnon, S G Purkey, et al. "Estimating χ using fast-response thermistors on traditional
-shipboard CTDs: sources of uncertainty and bias." <i>Journal of Atmospheric and Oceanic Technology<i>, in review.
+shipboard CTDs: sources of uncertainty and bias." <i>Journal of Atmospheric and Oceanic Technology</i>, in review.
 <br>
 
 <br>
 **R Lele**, S G Purkey, J D Nash, J A MacKinnon, A M Thurnherr, C B Whalen, et al. "Abyssal Heat Budget in the
-Southwest Pacific Basin", <i>Journal of Physical Oceanography<\i>, Accepted (2021).
+Southwest Pacific Basin", <i>Journal of Physical Oceanography</i>, Accepted (2021).
 <br>  
   
 

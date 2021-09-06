@@ -40,7 +40,7 @@ Turbulent mixing is a fundamental process that drives the large-scale cirulation
 
 
 
-## Deep Learning of NASA GRACE dervied Ocean Bottom Pressure: Implications for Regional Sea Level Budgets <br/>
+## Deep Learning of NASA GRACE derived Ocean Bottom Pressure: Implications for Regional Sea Level Budgets <br/>
 Description of Project goes in here.
 
 <img src="http://ratnaksha.github.io/images/grace_proj_compressed.gif" alt="grace_project" width="2496" height="500"/>

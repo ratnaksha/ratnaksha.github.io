@@ -1,5 +1,5 @@
 ---
-<!-- layout: archive -->
+layout: archive
 title: "Ratnaksha Lele"
 permalink: /cv/
 author_profile: true

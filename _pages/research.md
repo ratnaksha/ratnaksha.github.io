@@ -41,7 +41,7 @@ Turbulent mixing is a fundamental process that drives the large-scale cirulation
 
 
 ## Deep Learning of NASA GRACE derived Ocean Bottom Pressure: Implications for Regional Sea Level Budgets <br/>
-Description of Project goes in here.
+The [Global Mean Sea Level (GMSL)](https://sealevel.nasa.gov/understanding-sea-level/global-sea-level/overview) is a critical high-level measure of the Earth's climate system and an indicator of long term changes. The surface expression of changes to sea level are measured by suistained observations from satellite altimetry. The sea level budget involves partitioning the surface expression of sea level broadly into one driven by changes driven by thermal expansion (thermosteric) and one driven by changes in mass (barysteric) which can be measured independenty by Argo floats and NASA's GRACE satellite data. While the GMSL budget agree on the global scale within uncertainity, it is less so on regional and sub-basin scales. We use deep learning to learn the barysteric signature of the sea level budget to **a)** fill the gap in the GRACE timeseries between 2018 and 2019, **b)** use the learned representation of GRACE's data varaibility to evaluate the disagreement in the sea level budget on sub-basin scales. 
 
 <img src="http://ratnaksha.github.io/images/grace_project.gif" alt="grace_project" width="2496" height="500"/>
 

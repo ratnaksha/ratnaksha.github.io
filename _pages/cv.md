@@ -7,8 +7,7 @@ redirect_from:
   - /resume
 ---
 
-
-<object data="/files/rlele_cv.pdf" type="application/pdf" width="100%"> </object>
+<iframe src="http://ratnaksha.github.io/files/rlele_cv.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 [Click here to download my recent Resume [PDF]](http://ratnaksha.github.io/files/rlele_cv.pdf)
 <!-- <embed src="http://ratnaksha.github.io/files/rlele_cv.pdf" width="650" height="1800" type='application/pdf'> -->

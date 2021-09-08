@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! Welcome to my webpage. This is still work in-progress!  <br />   
+Hello! Welcome to my webpage.  <br />   
  
 # About me
  
@@ -19,8 +19,8 @@ Hello! Welcome to my webpage. This is still work in-progress!  <br />
 * My dissertation revolves around understanding two fundamental processes in the large-scale overturning circulation of the ocean-: 
   - the role of turbulent mixing in shaping the circulation and watermass properties in the deep and abyssal oceans,  
   - spatial and temporal variability in the dynamics of deep and abyssal flows in the ocean
- 
- * My research is observationally driven and involves the synthesis of a plethera of direct observations from shipboard and ship-deployed instrumentation, autonomous floats ([Argo](https://argo.ucsd.edu)), as well as from novel instrumentation such as [X-pod](http://mixing.coas.oregonstate.edu/research/instrumentation/) to measure oceanic turbulence for the goal of improving our knowlendge of the global geography of turbulent mixing in the ocean. My research also utilizes satellite observations of changes in the Earth's gravitiational field and Ocean Bottom Pressure from [NASA GRACE](https://www.nasa.gov/mission_pages/Grace/index.html) and [GRACE-FO](https://www.nasa.gov/mission_pages/Grace/index.html) missions to understand the inter-annual spatial and temporal variablity in abyssal ocean mass transport as well its impact on the sea level budget on regional and sub-basin scales.
+ <br />   
+ * My research is observationally driven and involves the synthesis of a plethera of direct observations from shipboard and ship-deployed instrumentation, autonomous floats ([Argo](https://argo.ucsd.edu)), as well as from novel instrumentation such as [X-pod](http://mixing.coas.oregonstate.edu/research/instrumentation/) to measure oceanic turbulence with the goal of improving our knowlendge of the global geography of turbulent mixing in the ocean. My research also utilizes satellite observations of changes in the Earth's gravitiational field and Ocean Bottom Pressure from [NASA GRACE](https://www.nasa.gov/mission_pages/Grace/index.html) and [GRACE-FO](https://www.nasa.gov/mission_pages/Grace/index.html) missions to understand the inter-annual spatial and temporal variablity in abyssal ocean mass transport as well its impact on the sea level budget on regional and sub-basin scales.
  
 <p align="center">
   <img src="https://ratnaksha.github.io/files/logo_img.png?raw=true" alt="Photo" style="width: 500px;"/> 

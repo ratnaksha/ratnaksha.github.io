@@ -6,7 +6,7 @@ author_profile: true
 Feel free to email me if you would like a pdf of any of these papers.
 
 <br>
-**R Lele**,S G Purkey and J A MacKinnon, "Global Regimes of Turbulent MIixing using Unsupervised Embedded
+**R Lele**, S G Purkey and J A MacKinnon, "Global Regimes of Turbulent MIixing using Unsupervised Embedded
 Clustering of Hydrographic Data", <i>Geophysical Research Letters</i>, in prep.
 <br>
 

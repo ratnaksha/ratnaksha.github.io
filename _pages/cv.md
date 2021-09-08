@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 <iframe src="/files/rlele_cv.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<embed src="http://ratnaksha.github.io/files/rlele_cv.pdf" width="650" height="1800" type='application/pdf'>
 
 [Click here to download my recent Resume [PDF]](http://ratnaksha.github.io/files/rlele_cv.pdf)
 <!-- <embed src="http://ratnaksha.github.io/files/rlele_cv.pdf" width="650" height="1800" type='application/pdf'> -->

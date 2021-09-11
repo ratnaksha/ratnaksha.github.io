@@ -17,7 +17,7 @@ shipboard CTDs: sources of uncertainty and bias." <i>Journal of Atmospheric and 
 
 <br>
 **R Lele**, S G Purkey, J D Nash, J A MacKinnon, A M Thurnherr, C B Whalen, et al. "Abyssal Heat Budget in the
-Southwest Pacific Basin", <i>Journal of Physical Oceanography</i>, [(link)](https://dx.doi.org/10.1175/JPO-D-21-0045.1)(2021).
+Southwest Pacific Basin", <i>Journal of Physical Oceanography</i>, [(link)](https://dx.doi.org/10.1175/JPO-D-21-0045.1) (2021).
 <br>  
   
 

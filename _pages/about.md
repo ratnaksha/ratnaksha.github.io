@@ -26,5 +26,5 @@ Hello! Welcome to my webpage.  <br />
   <img src="https://ratnaksha.github.io/files/logo_img.png?raw=true" alt="Photo" style="width: 500px;"/> 
 </p>
  
- 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fratnaksha.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=pytorch.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 

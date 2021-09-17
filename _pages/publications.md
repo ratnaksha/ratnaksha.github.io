@@ -6,7 +6,7 @@ author_profile: true
 Feel free to email me if you would like a pdf of any of these papers.
 
 <br>
-**R Lele**, S G Purkey and J A MacKinnon, "Global Regimes of Turbulent MIixing using Unsupervised Embedded
+**R Lele**, S G Purkey and J A MacKinnon, "Global Regimes of Turbulent Mixing using Unsupervised Embedded
 Clustering of Hydrographic Data", <i>Geophysical Research Letters</i>, in prep.
 <br>
 
@@ -25,4 +25,3 @@ Southwest Pacific Basin", <i>Journal of Physical Oceanography</i> (2021).[(link)
 Cole, S.T., Toole, J.M., **Lele, R.**, Timmermans, M.-L., Gallaher, S.G., Stanton, T.P., Shaw, W.J., Hwang, B., Maksym, T., Wilkinson, J.P., Ortiz, M., Graber, H., Rainville, L., Petty, A.A., Farrell, S.L., Richter-Menge, J.A. and Haas, C "Ice and ocean velocity in the Arctic marginal ice zone: Ice roughness and momentum transfer", 
 <i> Elementa: Science of the Anthropocene</i> (2017).[(link)](https://online.ucpress.edu/elementa/article/doi/10.1525/elementa.241/112453/Ice-and-ocean-velocity-in-the-Arctic-marginal-ice).
 <br> 
-

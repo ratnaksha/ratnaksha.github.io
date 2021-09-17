@@ -23,5 +23,5 @@ Southwest Pacific Basin", <i>Journal of Physical Oceanography</i> (2021).[(link)
 
 <br>
 Cole, S.T., Toole, J.M., **Lele, R.**, Timmermans, M.-L., Gallaher, S.G., Stanton, T.P., Shaw, W.J., Hwang, B., Maksym, T., Wilkinson, J.P., Ortiz, M., Graber, H., Rainville, L., Petty, A.A., Farrell, S.L., Richter-Menge, J.A. and Haas, C "Ice and ocean velocity in the Arctic marginal ice zone: Ice roughness and momentum transfer", 
-<i> Elementa: Science of the Anthropocene</i> (2017).[(link)](https://online.ucpress.edu/elementa/article/doi/10.1525/elementa.241/112453/Ice-and-ocean-velocity-in-the-Arctic-marginal-ice).
+<i> Elementa: Science of the Anthropocene</i> (2017).[(link)](https://online.ucpress.edu/elementa/article/doi/10.1525/elementa.241/112453/Ice-and-ocean-velocity-in-the-Arctic-marginal-ice)
 <br> 

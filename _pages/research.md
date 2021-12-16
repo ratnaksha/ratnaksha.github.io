@@ -28,7 +28,10 @@ redirect_from:
 ## Understanding Spatial Structure of Ocean Turbulent Mixing with Embedded Clustering Methods <br/>
 Turbulent mixing is a fundamental process that drives the large-scale cirulation of the ocean, through destratifying the water and helping upwell it in different regions of the world. A variety of processes are throught to cause turbulent mixing including surface procesess primarily by wind action, diffusion, convective instabilities as well as processes away from boundary regions primarily driven by internal waves. Direct turbulent measurements as well as parameterizations called finescale parameterizations have been developed to gain a better understanding of turbulent mixing at different spatio-temporal scales. While our understanding of the earth's energy budget and its partitioning into various dissipative turbulent processes is fairly robust, the geographical distribution and structure of the plethora of mixing processes remains poorly understood. Here, we use a novel embedded clustering approach on oceanographic data to uncover the spatial distribution of turbulent mixing processes in the ocean.
 
-<img src="http://ratnaksha.github.io/images/clustering_project.png" alt="clustering_project" width="900"/>
+<!--- <img src="http://ratnaksha.github.io/images/clustering_project.png" alt="clustering_project" width="900"/> --->
+![Alt text](./controllers_brief.svg)
+<img src="http://ratnaksha.github.io/images/Thesis_Project_3.svg" width = "900">
+
 
 **Project Lead:** Ratnaksha Lele<br/>
 <img src="http://ratnaksha.github.io/images/rlele_pic.jpg" alt="Me" width="100"/><br/>

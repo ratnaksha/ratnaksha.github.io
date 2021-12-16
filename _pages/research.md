@@ -30,7 +30,7 @@ Turbulent mixing is a fundamental process that drives the large-scale cirulation
 
 <!--- <img src="http://ratnaksha.github.io/images/clustering_project.png" alt="clustering_project" width="900"/> --->
 
-<img src="http://ratnaksha.github.io/images/Thesis_Project_3.svg" width = "1200">
+<img src="http://ratnaksha.github.io/images/Thesis_Project_3.svg" width = "1000">
 
 
 **Project Lead:** Ratnaksha Lele<br/>

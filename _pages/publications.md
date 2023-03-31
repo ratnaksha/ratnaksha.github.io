@@ -7,7 +7,7 @@ Feel free to email me if you would like a pdf of any of these papers.
 
 <br>
 **R Lele**, S G Purkey and J A MacKinnon, "Global Regimes of Turbulent Mixing using Unsupervised Embedded
-Clustering of Hydrographic Data", <i>Geophysical Research Letters</i>, in prep.
+Clustering of Hydrographic Data", <i>Geophysical Research Letters</i>, in review.
 <br>
 
 <br>

@@ -12,7 +12,7 @@ Hello! Welcome to my webpage.  <br />
  
 # About me
  
-* I am a Post-Doctoral Scientist at [Scripps Institution of Oceanography](https://scripps.ucsd.edu/), [University of California San Diego](https://ucsd.edu) advised by [Dr. Sarah. G. Purkey](https://spurkey.scrippsprofiles.ucsd.edu/). My research is funded by NASA's Future Investigator in Earth and Space Sciences grant and through the National Science Foundation.
+* I am a Postdoctoral Scientist at [Scripps Institution of Oceanography](https://scripps.ucsd.edu/), [University of California San Diego](https://ucsd.edu) advised by [Dr. Sarah. G. Purkey](https://spurkey.scrippsprofiles.ucsd.edu/). My research is funded by NASA's Future Investigator in Earth and Space Sciences grant and through the National Science Foundation.
  
 * My research interests lie in the area of large-scale dynamics of the oceans and its link to the global climate system. I use a blend of idealized theoretical models as well as unsupervised and supervised machine learning approaches to help link the data-rich and data-sparse research problems in physical oceanography.
  

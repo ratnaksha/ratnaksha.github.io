@@ -25,6 +25,25 @@ redirect_from:
 *****
 *****
 *****
+## Improved Sea Level Rise Estimates using Data from Robotic Floats <br/>
+A new generation of autonomous floats called Deep Argo samples the full ocean volume down to 20000 ft below the ocean surface. Using temperature, salinity data collected from a pilot array in the Southwest Pacific Basin we quantify the ocean warming signal and calculate trends between 2014-2023 in the sea level rise potential from these warm anomalies. We use this novel dataset to demonstrate the value of making these measurements in the deep and abyssal ocean by showing an increase in the overall closure of the sea level budget in this region, by combing AVISO sea level altimetry, NASA GRACE gravimetry and full-depth Deep Argo data. 
+[(preprint out soon)](https://essopenarchive.org/)
+
+<!--- <img src="http://ratnaksha.github.io/images/clustering_project.png" alt="clustering_project" width="900"/> --->
+
+<!--- <img src="http://ratnaksha.github.io/images/Thesis_Project_3.svg" width = "1300"> --->
+<img src="http://ratnaksha.github.io/images/deep_argo_project.png"  width="800"/>
+
+**Project Lead:** Ratnaksha Lele<br/>
+<img src="http://ratnaksha.github.io/images/rlele_pic.jpg" alt="Me" width="100"/><br/>
+**Collaborators:** Sarah Purkey<br/>
+<a href="https://spurkey.scrippsprofiles.ucsd.edu/"><img src="http://ratnaksha.github.io/images/SGP.jpg" alt="SGP" width="100"/></a>
+
+
+
+*****
+*****
+*****
 ## Understanding Spatial Structure of Ocean Turbulent Mixing with Embedded Clustering Methods <br/>
 Turbulent mixing is a fundamental process that drives the large-scale cirulation of the ocean, through destratifying the water and helping upwell it in different regions of the world. A variety of processes are throught to cause turbulent mixing including surface procesess primarily by wind action, shear and convective instabilities as well as processes away from boundary regions primarily driven by internal waves. Direct turbulent measurements as well as parameterizations called finescale parameterizations have been developed to gain a better understanding of turbulent mixing at different spatio-temporal scales. While our understanding of the earth's energy budget and its partitioning into various dissipative turbulent processes is fairly robust, the geographical distribution and structure of the plethora of mixing processes remains poorly understood. Here, we use a novel embedded clustering approach on oceanographic data to uncover the spatial distribution of turbulent mixing processes in the ocean. [(preprint)](https://doi.org/10.22541/essoar.168055231.12155392/v1)
 

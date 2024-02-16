@@ -32,7 +32,7 @@ A new generation of autonomous floats called Deep Argo samples the full ocean vo
 <!--- <img src="http://ratnaksha.github.io/images/clustering_project.png" alt="clustering_project" width="900"/> --->
 
 <!--- <img src="http://ratnaksha.github.io/images/Thesis_Project_3.svg" width = "1300"> --->
-<img src="http://ratnaksha.github.io/images/deep_argo_project.png"  width="800"/>
+<img src="http://ratnaksha.github.io/images/deep_argo_project.png"  width="1000"/>
 
 **Project Lead:** Ratnaksha Lele<br/>
 <img src="http://ratnaksha.github.io/images/rlele_pic.jpg" alt="Me" width="100"/><br/>

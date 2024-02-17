@@ -6,8 +6,12 @@ author_profile: true
 Feel free to email me if you would like a pdf of any of these papers.
 
 <br>
+**R Lele**, S G Purkey "A Full-Depth Sea Level Rise Budget in the Southwest Pacific Basin using Deep Argo", <i>Geophysical Research Letters</i>, in review.[(preprint)](https://essopenarchive.org/)
+<br>
+
+<br>
 **R Lele**, S G Purkey, J A MacKinnon and J D Nash "Global Regimes of Turbulent Mixing using Unsupervised Embedded
-Clustering of Hydrographic Data", <i>Geophysical Research Letters</i>, in review.[(preprint)](https://doi.org/10.22541/essoar.168055231.12155392/v1)
+Clustering of Hydrographic Data", <i>Journal of Geophysical Research: Oceans</i>, in review.[(preprint)](https://doi.org/10.22541/essoar.168055231.12155392/v1)
 <br>
 
 <br>

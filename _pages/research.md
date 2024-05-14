@@ -27,7 +27,7 @@ redirect_from:
 *****
 ## Improved Sea Level Rise Estimates using Data from Robotic Floats <br/>
 A new generation of autonomous floats called Deep Argo samples the full ocean volume down to 20000 ft below the ocean surface. Using temperature, salinity data collected from a pilot array in the Southwest Pacific Basin we quantify the ocean warming signal and calculate trends between 2014-2023 in the sea level rise potential from these warm anomalies. We use this novel dataset to demonstrate the value of making these measurements in the deep and abyssal ocean by showing an increase in the overall closure of the sea level budget in this region, by combing AVISO sea level altimetry, NASA GRACE gravimetry and full-depth Deep Argo data. 
-[(preprint)](https://doi.org/10.22541/essoar.170843875.51543487/v1)
+[(preprint)](https://doi.org/10.22541/essoar.170843875.51543487/v3)
 
 <!--- <img src="http://ratnaksha.github.io/images/clustering_project.png" alt="clustering_project" width="900"/> --->
 

@@ -6,7 +6,7 @@ author_profile: true
 Feel free to email me if you would like a pdf of any of these papers.
 
 <br>
-**R Lele**, S G Purkey "A Full-Depth Sea Level Rise Budget in the Southwest Pacific Basin using Deep Argo", <i>Geophysical Research Letters</i>, in review.[(preprint)](https://doi.org/10.22541/essoar.170843875.51543487/v3)
+**R Lele**, S G Purkey "A Full-Depth Sea Level Rise Budget in the Southwest Pacific Basin using Deep Argo", <i>Geophysical Research Letters</i>, 2024.[(preprint)](https://doi.org/10.22541/essoar.170843875.51543487/v3)
 <br>
 
 <br>
